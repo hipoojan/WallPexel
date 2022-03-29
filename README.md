@@ -3,10 +3,12 @@
 A simple Wallpaper app using Pexel API
 
 ## Screenshots
-![Home](ss/home.jpg)
-![Fullscreen](ss/fullscreen.jpg)
-![Fullscreen Info](ss/fullscreen_info.jpg)
-![Fullscreen Dialog](ss/fullscreen_dialog.jpg)
+<p float="left">
+  <img src="ss/home.jpg" height="450">
+  <img src="ss/fullscreen.jpg" height="450">
+  <img src="ss/fullscreen_info.jpg" height="450">
+  <img src="ss/fullscreen_dialog.jpg" height="450">
+</p>
 
 ## Getting Started
 
